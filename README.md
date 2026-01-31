@@ -159,6 +159,19 @@ This project is released under the **MIT License**.
 
 See the `LICENSE` file for more details.
 
+---
+## 👤 Author & Contact
+
+**Aditya Kumar Verma**
+
+Research interests:
+- EEG-based cognitive state analysis
+- Deep learning for time-series data
+- Attention mechanisms
+- Explainable Artificial Intelligence (XAI)
+
+For academic or research-related inquiries, please reach out via GitHub issues or
+professional contact channels.
 
 
 
